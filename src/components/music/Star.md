@@ -15,4 +15,12 @@ youtube: "https://music.youtube.com/watch?v=tA9Kk33Ftfg"
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2752389032/size=small/bgcol=333333/linkcol=0f91ff/artwork=none/transparent=true/" seamless><a href="https://fryrvo.bandcamp.com/track/star">Star by Fryrvo</a></iframe>
 
+<br>
+<br>
+<p align="center">
+    <a href="https://fryrvo.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.fryrvo.com/assets/fryrvo_branding/Logo_bg.png" alt="icon" width="120">
+    </a>
+</p>
 
+<div align="center">
