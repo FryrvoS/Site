@@ -8,3 +8,13 @@ spotify: "https://open.spotify.com/track/6kCWDxGodo0RbUZPRLLY0u"
 apple: "https://music.apple.com/gb/album/6806461352"
 youtube: "https://music.youtube.com/watch?v=vPkoVe4NU8Y"
 ---
+
+<br>
+<br>
+<p align="center">
+    <a href="https://fryrvo.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.fryrvo.com/assets/fryrvo_branding/Logo_bg.png" alt="icon" width="120">
+    </a>
+</p>
+
+<div align="center">
